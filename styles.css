@@ -396,6 +396,7 @@ form{
 
     #projImg{
         width: 70%;
+        height: auto;
     }
   }  
 
@@ -446,6 +447,7 @@ form{
 
     #projImg{
         width: 90%;
+        height: auto;
     }
     button{
         margin-left: 2rem;
