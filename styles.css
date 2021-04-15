@@ -145,6 +145,10 @@ html,body{
     transition: opacity 2s;
 }
 
+.projCont>h1{
+    margin-bottom:0 ;
+}
+
 #section5{
     background: linear-gradient(0deg, rgba(132,116,184,1) 0%, rgba(20,0,67,1) 100%);
     display: flex;
